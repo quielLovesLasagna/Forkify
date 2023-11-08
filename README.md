@@ -35,7 +35,7 @@ Users should be able to:
 
 ![Project Demo](./assests/demo.gif)
 
-### Link
+### Links
 
 - Live Site URL: [Forkify]()
 
