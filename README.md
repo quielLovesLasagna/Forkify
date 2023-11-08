@@ -29,7 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Project Overview](./assests/forkify.png)
+![Project Overview](./assests/preview-1.png)
+![Project Overview](./assests/preview-2.png)
+![Project Overview](./assests/preview-3.png)
 
 ### Demo
 
@@ -37,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Forkify]()
+- Live Site URL: [https://forkify-good-food-recipes.netlify.app/](https://forkify-good-food-recipes.netlify.app/)
 
 ## My process
 
