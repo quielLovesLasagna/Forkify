@@ -60,4 +60,4 @@ I learned in this project is that understanding the overall structure and functi
 
 ## Acknowledgements
 
-I would like to thank [Jonas Schmedtmann] and his team for teaching and helping me and everyone else throughout the course.
+I would like to thank [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) and his team for teaching and helping me and everyone else throughout the course.
