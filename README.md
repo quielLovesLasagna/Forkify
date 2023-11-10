@@ -1,7 +1,5 @@
 # Forkify Project
 
-### Live Site URL
-
 Recipe application for searching and creating recipes.
 
 ## Table of contents
